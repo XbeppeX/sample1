@@ -2,6 +2,23 @@
 h1 {
     color: blue;
     text-align: center;
-    border: 5px dashed purple;
+    border: 5px solid purple;
     cursor: pointer;
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+}
+
+.webtext1 {
+    border: 5px dashed green;
+}
+
+.active {
+    border: 5px solid blue;
+}
+
+#div1 {
+    background: rgba(0, 0, 255, 0.2);
 }
