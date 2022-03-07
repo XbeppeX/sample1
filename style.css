@@ -12,7 +12,7 @@ h1 {
 
 .about {
     border: 10px solid red;
-    display: ;
+    display: flex ;
     padding: 5px 20px;
     margin: 0px 20px;
     width: 33px;
